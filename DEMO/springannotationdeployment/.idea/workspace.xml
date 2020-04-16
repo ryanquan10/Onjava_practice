@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90f3c8d2-21d9-477e-b195-f270fdcb42d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Mathematics/src/TwentyUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/AbstractApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/core/io/DefalultResourceLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/core/io/InputStreamSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/core/io/ProtocolResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/core/io/Resource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/core/io/ResourceLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/util/Assert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/util/ConnectionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/util/MultiValueMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/util/ObjectUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/util/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/Hello1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/OnJava_all.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/Redirecting.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/Redirecting2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/fileNname" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/J8time/TestLocalDatetime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/J8time/TestSimpleDateFormat$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/J8time/TestSimpleDateFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/META-INF/OnJava_all.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/PracticeFromAnki/BiConsumerPermutations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/PracticeFromAnki/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/PracticeFromAnki/Fibonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/PracticeFromAnki/Fibonacci2345.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/PracticeFromAnki/ForkJoinCaculate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/PracticeFromAnki/ForkJoinCaculate3536.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/PracticeFromAnki/FunctionWithWrapped.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/PracticeFromAnki/IntCall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/PracticeFromAnki/MakeNoArgs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/PracticeFromAnki/MakeOneArgs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/PracticeFromAnki/MyAnnotation01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/PracticeFromAnki/MyAnnotation02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/PracticeFromAnki/MyExtentAnnotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/PracticeFromAnki/PlayGround.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/PracticeFromAnki/Practice2313.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/PracticeFromAnki/TestForkJoin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/PracticeFromAnki/TestReflect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/PracticeFromAnki/TestTimeAPI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/PracticeFromAnki/TransformX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/PracticeFromAnki/UnboundMethodReference2314.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/PracticeFromAnki/X.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/annotations/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/annotations/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/annotations/SxtAnnotation01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/annotations/TestAnnotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/annotations/Testable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/annotations/UseCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/annotations/pracitice/Employee$Status.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/annotations/pracitice/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/annotations/pracitice/SimulateORG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/annotations/pracitice/SxtField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/AddingGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/AddingGroups.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/Apple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/ApplesAndOrangesWithoutGenerics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/AsListInference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/Braeburn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/CrossCollectionIteration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/Crusty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/Fuji.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/Gala.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/GenericsAndUpcasting$1Braeburn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/GenericsAndUpcasting$1Fuji.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/GenericsAndUpcasting$1Gala.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/GenericsAndUpcasting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/GrannySmith.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/Heavy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/InterfaceVsIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/Light.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/MapOfList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/Orange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/Pet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/Pets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/Powder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/PrintingCollections.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/PriorityQueueDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/QueueDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/SetOfInteger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/SetOperations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/SimpleCollection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/SimpleIteration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/Slush.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/Snow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/Statistics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/TestArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/collectaions/UniqueWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/constructor/BB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/constructor/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/file/ByteBufferTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/file/PartsOfPaths.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/file/PathAnalysis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/file/PathInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/file/RmDir$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/file/RmDir.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/forkJoinCaculate/ForkJoinCaculate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/forkJoinCaculate/TestForkJoin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/ATest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/AnonymousClosure$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/AnonymousClosure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/BlockOfCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Callable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Closure1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Closure2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Closure4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Closure5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Closure7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Clousure6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/ConsumerInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/CtorReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/CurryingAndPartials.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Describe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Description.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Executor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Face.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/FoureArgs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/FunctionComposition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/GG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Go.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/IntCall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/JavaLambdaTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/LambdaExpressions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/LambdaFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/LambdaVsAnonymousClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/MainAnonymousClass$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/MainAnonymousClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/MainLamba.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Make1Arg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Make2Args.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/MakeNoArgs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/MathOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/MethodReferences$Description.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/MethodReferences$Helper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/MethodReferences.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Multi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/MultiUnbound.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/MyFun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/MyFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/MyFunction2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/MyPredicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/MyStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/NameChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Question1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/RecursiveFactorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/RecursiveFibonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/RunnableMethodReference$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/RunnableMethodReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/SharedStorage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Soft.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Strategize$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Strategize.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/StrategizeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Strategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/TestLambd2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/TestLambda2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/TestLambda2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/TestLambda3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/TestLambda4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/TestMethodRef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/TestOptional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/This.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/ThreeArgs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/TransformX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/TwoArgs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/UnboundMethodReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/Unrelated.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/X2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/entity/Employee$Status.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/entity/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/exersices/City.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/exersices/ForkJoinCalculate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/exersices/IntCall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/exersices/LembdaInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/exersices/MyFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/exersices/MyFunctionImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/exersices/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/exersices/Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/exersices/RecursiveFactorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/exersices/RecursiveFibonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/exersices/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/exersices/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/exersices/TestCurrying.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/exersices/TestCurrying2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/exersices/TestForkJoin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/exersices/TestLambda2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/exersices/TestMethodRef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/exersices/TransformX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/exersices/UnboundMethodReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/exersices/X.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/functional/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/io/DirDemo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/io/FileIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/material/Trader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/material/Transaction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/newIo/GetChannel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/newIo/GetChannel2242.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/newIo/PlayGround.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/onjava/atunit/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/standardio/Echo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/standardio/Redirecting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/stream/Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/stream/TestStreamAIP4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/stream/TestStreamAPI2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/stream/TestStreamAPI3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/stuff/mall/common/JsonIgnore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/testenum/Food$Coffee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/testenum/Food$Dessert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/testenum/Food.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/testenum/NetWordStateCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/testenum/Status.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/testenum/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/Building.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/Candy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/ClassCasts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/ClassInitialization.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/Cookie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/CountedInteger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/DynmicSupplier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/Gum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/House.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/Initable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/Initable2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/Initable3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/Shapes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/SweetShop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/toys/FancyToy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/toys/GenericToyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/toys/HasBatteries.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/toys/Shoots.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/toys/SubFancyToy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/toys/Toy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/toys/ToyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/out/production/OnJava_all/typeinfo/toys/Waterproof.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/J8time/TestLocalDatetime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/J8time/TestSimpleDateFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/PracticeFromAnki/BiConsumerPermutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/PracticeFromAnki/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/PracticeFromAnki/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/PracticeFromAnki/Fibonacci2345.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/PracticeFromAnki/ForkJoinCaculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/PracticeFromAnki/ForkJoinCaculate3536.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/PracticeFromAnki/MyAnnotation01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/PracticeFromAnki/MyAnnotation02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/PracticeFromAnki/MyExtentAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/PracticeFromAnki/PlayGround.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/PracticeFromAnki/Practice2313.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/PracticeFromAnki/TestTimeAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/PracticeFromAnki/This.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/PracticeFromAnki/UnboundMethodReference2314.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/annotations/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/annotations/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/annotations/SxtAnnotation01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/annotations/TestAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/annotations/Testable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/annotations/UseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/annotations/pracitice/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/annotations/pracitice/SimulateORG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/annotations/pracitice/SxtField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/collectaions/AddingGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/collectaions/AddingGroups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/collectaions/ApplesAndOrangesWithoutGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/collectaions/AsListInference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/collectaions/CrossCollectionIteration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/collectaions/GenericsAndUpcasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/collectaions/InterfaceVsIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/collectaions/MapOfList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/collectaions/PrintingCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/collectaions/PriorityQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/collectaions/QueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/collectaions/SetOfInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/collectaions/SetOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/collectaions/SimpleCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/collectaions/SimpleIteration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/collectaions/Statistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/collectaions/TestArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/collectaions/UniqueWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/constructor/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/constructor/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/file/ByteBufferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/file/PartsOfPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/file/PathAnalysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/file/PathInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/file/RmDir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/forkJoinCaculate/ForkJoinCaculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/ATest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/AnonymousClosure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/BlockOfCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/Closure1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/Closure2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/Closure4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/Closure5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/Closure7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/Clousure6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/CtorReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/CurryingAndPartials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/FunctionComposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/IntCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/JavaLambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/LambdaExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/LambdaFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/LambdaVsAnonymousClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/LambdaVsAnonymousClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/MainAnonymousClass$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/MainAnonymousClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/MainLamba.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/MethodReferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/MultiUnbound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/MyFun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/MyFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/MyFunction2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/RecursiveFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/RecursiveFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/RunnableMethodReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/SharedStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/Strategize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/StrategizeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/TestLambd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/TestLambd2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/TestLambda3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/TestLambda4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/TestMethodRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/TestOptional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/UnboundMethodReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/exersices/ForkJoinCalculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/exersices/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/exersices/RecursiveFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/exersices/RecursiveFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/exersices/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/exersices/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/exersices/TestCurrying.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/exersices/TestCurrying2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/exersices/TestLambda2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/exersices/TestMethodRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/functional/exersices/UnboundMethodReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/io/DirDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/io/FileIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/material/Trader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/material/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/newIo/GetChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/newIo/GetChannel2242.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/newIo/PlayGround.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/onjava/atunit/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/standardio/Echo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/standardio/Redirecting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/stream/TestStreamAIP4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/stream/TestStreamAPI1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/stream/TestStreamAPI2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/stream/TestStreamAPI3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/stuff/mall/common/JsonIgnore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/stuff/mall/common/ServerResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/testenum/NetWordStateCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/testenum/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/testenum/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/typeinfo/ClassCasts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/typeinfo/ClassInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/typeinfo/DynmicSupplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/typeinfo/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/typeinfo/SweetShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/typeinfo/toys/GenericToyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkofJava_annotation/src/typeinfo/toys/ToyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrent/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrent/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrent/.idea/libraries/jcip_annotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/CountingFactorizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/test/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/test/Battlefield.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/test/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/test/Sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/test/armyTaskOfSuiDynasty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrent/.idea/src/main/webapp/WEB-INF/lib/jcip-annotations.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrent/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrent/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnSpring/src/main/java/chuan/springframework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/demo/src/main/java/com/example/demo/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-02-config-02/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-02-config-02/src/main/resources/config/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-02/src/main/java/com/example/springboot02/Ideity/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-02/src/main/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-02/src/main/resources/application-prod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-02/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../当面付Demo/F2FPay_Demo_Java/TradePayDemo/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../当面付Demo/F2FPay_Demo_Java/testFtpUpload/src/fileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../当面付Demo/F2FPay_Demo_Java/testFtpUpload1/src/example/FtpUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../当面付Demo/F2FPay_Demo_Java/testFtpUpload1/src/example/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../当面付Demo/F2FPay_Demo_Java/testFtpUpload1/web/WEB-INF/sun-jaxws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.en.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../music.txt" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\.m2\repos" />
+        <option name="mavenHome" value="D:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springannotationdeployment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springannotationdeployment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springannotationdeployment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springannotationdeployment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springannotationdeployment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springannotationdeployment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springannotationdeployment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springannotationdeployment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path" value="D:\.m2\repos" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/workspace" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90f3c8d2-21d9-477e-b195-f270fdcb42d6" name="Default Changelist" comment="" />
+      <created>1587052701051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587052701051</updated>
+      <workItem from="1587052703512" duration="1714000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1714000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.122068234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.23043944" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.015991472" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" weight="0.32969433" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>springannotationdeployment</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
