@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jcip-annotations">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.idea/src/main/webapp/WEB-INF/lib/jcip-annotations.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
