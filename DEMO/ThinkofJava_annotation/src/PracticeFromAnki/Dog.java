@@ -1,33 +1,21 @@
 package PracticeFromAnki;
 
-public class Dog {
-    String name;
-    int age = -1;
+public class Dog{
+  String name;
+  float price;
+  int age;
 
-    Dog(){   name ="stray";}
-    Dog(String nm) { name = nm; }
-    Dog(String nm, int yrs) { name = nm; age = yrs; }
-
-    public static void main(String[] args) {
-        MakeNoArgs m1 = Dog::new;
-        MakeOneArgs m2 =  Dog::new;
-        Dog d1 =(Dog) m1.makeWithNoArgs();
-
-        System.out.println(d1.name);
-
-        Dog d2 = (Dog)m2.makeWithOneArgs("haha");
-
-        System.out.println(d2.name);
-
-        System.out.println();
+    public Dog() {
     }
 
-}
+    public Dog(String name, float price, int age) {
+        this.name = name;
+        this.price = price;
+        this.age = age;
+    }
 
-interface MakeNoArgs{
-  public Object  makeWithNoArgs();
-}
-
-interface MakeOneArgs{
-    public Object makeWithOneArgs(String set);
+    public   String modity( String name, float price, int age){
+        System.out.println("modify");
+       return "OK";
+    }
 }

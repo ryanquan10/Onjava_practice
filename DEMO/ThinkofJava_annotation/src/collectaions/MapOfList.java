@@ -1,6 +1,6 @@
 package collectaions;
 
-import typeinfo.pets.*;
+//import typeinfo.pets.*;
 
 import java.util.Arrays;
 import java.util.HashMap;

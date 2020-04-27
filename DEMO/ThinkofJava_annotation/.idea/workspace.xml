@@ -2,77 +2,181 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad0f0d54-4c85-4cee-87a4-ee8bf6c312ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Mathematics/src/TwentyUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/AbstractApplicationContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/core/io/DefalultResourceLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/core/io/InputStreamSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/core/io/ProtocolResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/core/io/Resource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/core/io/ResourceLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/util/Assert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/util/ConnectionUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/util/MultiValueMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/util/ObjectUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/util/StringUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectaions/AddingGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectaions/AddingGroups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectaions/ApplesAndOrangesWithoutGenerics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectaions/AsListInference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectaions/CrossCollectionIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectaions/GenericsAndUpcasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectaions/InterfaceVsIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectaions/MapOfList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectaions/PrintingCollections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectaions/PriorityQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectaions/QueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectaions/SetOfInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectaions/SetOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectaions/SimpleCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectaions/SimpleIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectaions/Statistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectaions/TestArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectaions/UniqueWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concurrent/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concurrent/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concurrent/.idea/libraries/jcip_annotations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/CountingFactorizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/test/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/test/Battlefield.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/test/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/test/Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/test/armyTaskOfSuiDynasty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concurrent/.idea/src/main/webapp/WEB-INF/lib/jcip-annotations.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concurrent/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concurrent/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learnSpring/src/main/java/chuan/springframework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/demo/src/main/java/com/example/demo/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-02-config-02/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-02-config-02/src/main/resources/config/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-02/src/main/java/com/example/springboot02/Ideity/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-02/src/main/resources/application-dev.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-02/src/main/resources/application-prod.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-02/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../当面付Demo/F2FPay_Demo_Java/TradePayDemo/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../当面付Demo/F2FPay_Demo_Java/testFtpUpload/src/fileUpload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../当面付Demo/F2FPay_Demo_Java/testFtpUpload1/src/example/FtpUpload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../当面付Demo/F2FPay_Demo_Java/testFtpUpload1/src/example/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../当面付Demo/F2FPay_Demo_Java/testFtpUpload1/web/WEB-INF/sun-jaxws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mathematics/src/TwentyUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Mathematics/src/TwentyUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/AbstractApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/AbstractApplicationContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/core/io/InputStreamSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/core/io/InputStreamSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/core/io/ProtocolResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/core/io/ProtocolResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/core/io/Resource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/core/io/Resource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/util/ConnectionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/util/ConnectionUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/util/MultiValueMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/util/MultiValueMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/util/ObjectUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/util/ObjectUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/util/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadSpringSource/src/main/java/com/ryanchuan/util/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Hello1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnJava_all.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OnJava_all.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Redirecting.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Redirecting.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Redirecting2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Redirecting2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OnJava_all/META-INF/OnJava_all.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OnJava_all/PracticeFromAnki/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnJava_all/PracticeFromAnki/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OnJava_all/PracticeFromAnki/MakeNoArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OnJava_all/PracticeFromAnki/MakeOneArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OnJava_all/PracticeFromAnki/Practice2313.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnJava_all/PracticeFromAnki/Practice2313.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OnJava_all/PracticeFromAnki/TestReflect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnJava_all/PracticeFromAnki/TestReflect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OnJava_all/annotations/UseCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnJava_all/annotations/UseCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OnJava_all/file/RmDir$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnJava_all/file/RmDir$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OnJava_all/file/RmDir.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnJava_all/file/RmDir.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OnJava_all/functional/exersices/City.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnJava_all/functional/exersices/City.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OnJava_all/functional/exersices/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnJava_all/functional/exersices/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OnJava_all/functional/exersices/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnJava_all/functional/exersices/Practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OnJava_all/typeinfo/ClassInitialization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnJava_all/typeinfo/ClassInitialization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeFromAnki/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeFromAnki/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeFromAnki/Practice2313.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeFromAnki/Practice2313.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeFromAnki/UnboundMethodReference2314.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeFromAnki/UnboundMethodReference2314.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/annotations/UseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/annotations/UseCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectaions/MapOfList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectaions/MapOfList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/file/RmDir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/file/RmDir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional/exersices/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/exersices/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/typeinfo/ClassInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/typeinfo/ClassInitialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../concurrent/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../concurrent/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/CountingFactorizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/CountingFactorizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/test/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/test/Actor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/test/Battlefield.java" beforeDir="false" afterPath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/test/Battlefield.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/test/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/test/Outer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/test/Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/test/Sequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/test/armyTaskOfSuiDynasty.java" beforeDir="false" afterPath="$PROJECT_DIR$/../concurrent/.idea/src/main/java/test/armyTaskOfSuiDynasty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../concurrent/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../concurrent/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../concurrent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../concurrent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnSpring/src/main/java/chuan/springframework.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnSpring/src/main/java/chuan/springframework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/demo/src/main/java/com/example/demo/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project/demo/src/main/java/com/example/demo/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-02/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-02-config-02/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-02/src/main/resources/config/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-02-config-02/src/main/resources/config/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-02/src/main/java/com/example/springboot02/Ideity/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-02/src/main/java/com/example/springboot02/Ideity/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-02/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-02/src/main/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-02/src/main/resources/application-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-02/src/main/resources/application-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-02/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-02/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/aop/LogAspects.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/aop/LogAspects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/aop/MathCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/aop/MathCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/assembly/MyImportBeanDefinitionRegistrar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/assembly/MyImportBeanDefinitionRegistrar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/assembly/MyImportSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/assembly/MyImportSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/bean/AllInOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/bean/AllInOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/bean/AwerOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/bean/AwerOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/bean/Boss.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/bean/Boss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/bean/MyBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/bean/MyBeanPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/bean/One.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/bean/One.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/bean/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/bean/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/bean/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/bean/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/AopConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/AopConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config12.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/Config9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/SomeProfileConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/config/SomeProfileConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/dao/BookDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/dao/BookDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/service/serviceImpl/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/java/com/quan/service/serviceImpl/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springannotationdeployment/src/main/resources/person.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springannotationdeployment/src/main/resources/person.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.en.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/demo/src/main/java/Cake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/demo/src/main/java/Cookies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/demo/src/main/java/Dessert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/demo/src/main/java/IceCream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/demo/src/main/java/Make.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/demo/src/main/java/MakeDessert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/demo/src/test/java/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/demo/src/test/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/demo/src/test/resources/properties.property" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__asm_asm_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__cglib_cglib_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_aspectj_aspectjrt_1_6_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_6_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_springframework_spring_test_5_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/src/main/java/center/Encoreable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/src/main/java/center/EncoreableIntroducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/SpringBoot_created/spaop/src/main/java/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring实战/Chapter_01/.idea/Chapter_01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring实战/Chapter_01/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring实战/Chapter_01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring实战/Chapter_01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring实战/Chapter_01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring实战/Chapter_01/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring实战/Chapter_02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring实战/Chapter_03/.idea/Chapter_03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring实战/Chapter_03/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring实战/Chapter_03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring实战/Chapter_03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring实战/Chapter_03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring实战/Chapter_03/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring实战/Chapter_05/.idea/Chapter_05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring实战/Chapter_05/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring实战/Chapter_05/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring实战/Chapter_05/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring实战/Chapter_05/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring实战/Chapter_05/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-example/mricoMassage demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-example/mricoMassage demo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-example/mricoMassage demo/.idea/mricoMassage demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-example/mricoMassage demo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-example/mricoMassage demo/MicroMessage/src/com/imooc/dao/MessageDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../当面付Demo/F2FPay_Demo_Java/testFtpUpload/src/fileUpload.java" beforeDir="false" afterPath="$PROJECT_DIR$/../当面付Demo/F2FPay_Demo_Java/testFtpUpload/src/fileUpload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../当面付Demo/F2FPay_Demo_Java/testFtpUpload1/src/example/FtpUpload.java" beforeDir="false" afterPath="$PROJECT_DIR$/../当面付Demo/F2FPay_Demo_Java/testFtpUpload1/src/example/FtpUpload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../当面付Demo/F2FPay_Demo_Java/testFtpUpload1/web/WEB-INF/sun-jaxws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../当面付Demo/F2FPay_Demo_Java/testFtpUpload1/web/WEB-INF/sun-jaxws.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../music.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -105,79 +209,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/PracticeFromAnki/Practice2313.java">
+        <entry file="file://$PROJECT_DIR$/src/PracticeFromAnki/practice2252.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+            <state relative-caret-position="396">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="17" selection-end-line="18" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/Thread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="452" column="53" selection-start-line="452" selection-start-column="53" selection-end-line="452" selection-end-column="53" />
-              <folding>
-                <element signature="e#15020#15021#0" expanded="true" />
-                <element signature="e#15084#15085#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/reflect/ParameterizedType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="64" column="11" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="137" column="23" selection-start-line="137" selection-start-column="23" selection-end-line="137" selection-end-column="23" />
-              <folding>
-                <element signature="e#19327#19328#0" expanded="true" />
-                <element signature="e#19410#19411#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="621" column="15" selection-start-line="621" selection-start-column="15" selection-end-line="621" selection-end-column="15" />
-              <folding>
-                <element signature="e#22786#22787#0" expanded="true" />
-                <element signature="e#22821#22822#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/Integer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="828" column="26" selection-start-line="828" selection-start-column="26" selection-end-line="828" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Redirecting.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -187,52 +225,53 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
-        <option value="AnnotationType" />
         <option value="Arquillian JUnit Test Class" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>utf</find>
-      <find>system</find>
-      <find>getResource</find>
-      <find>class TestR</find>
+      <find>getDeclaredAnnotations</find>
+      <find>SimpleTest</find>
+      <find>newProxyInstance</find>
+      <find>VARCHAR</find>
+      <find>SimpleProxyDemo</find>
+      <find>Person</find>
+      <find>Writer</find>
+      <find>out</find>
       <find>TestReflect</find>
-      <find>add</find>
-      <find>add(</find>
-      <find>Loading Cookie</find>
-      <find>Abs</find>
-      <find>getOrD</find>
-      <find>absent</find>
-      <find>filter</find>
-      <find>TriFunction</find>
-      <find>map</find>
-      <find>g</find>
-      <find>getGenericParameterTypes</find>
-      <find>test</find>
-      <find>FileVisitResult</find>
-      <find>getPathMatcher</find>
-      <find>matches</find>
-      <find>checkPermission</find>
-      <find>System</find>
-      <find>if (pos</find>
-      <find>allocate</find>
-      <find>wrap</find>
+      <find>DEFAULT_BUFFER_SIZE</find>
+      <find>read</find>
+      <find>read(</find>
+      <find>emp</find>
+      <find>removeif</find>
+      <find>write</find>
+      <find>SxtAnnotation01</find>
+      <find>Stream.of</find>
+      <find>mark(</find>
+      <find>parent</find>
+      <find>resolveName</find>
+      <find>resolve</find>
+      <find>currentThread</find>
+      <find>string</find>
+      <find>PipedInputStream(</find>
       <find>emps</find>
-      <find>getChann</find>
-      <find>goodbye</find>
-      <find>put(</find>
-      <find>R</find>
+      <find>open()</find>
+      <find>open(</find>
+      <find>message=</find>
+      <find>8989</find>
+      <find>8988</find>
     </findStrings>
     <dirStrings>
       <dir>H:\OneDrive - vlity.ac.id\DEMO\ThinkofJava_annotation\src</dir>
       <dir>H:\OneDrive - vlity.ac.id\DEMO\ThinkofJava_annotation\src\functional\exersices</dir>
       <dir>H:\OneDrive - vlity.ac.id\DEMO\ThinkofJava_annotation\src\functional</dir>
       <dir>H:\OneDrive - vlity.ac.id\DEMO\ThinkofJava_annotation</dir>
+      <dir>H:\OneDrive - vlity.ac.id\DEMO\ThinkofJava_annotation\src\PracticeFromAnki</dir>
       <dir>H:\OneDrive - vlity.ac.id\DEMO\ThinkofJava_annotation\src\typeinfo</dir>
     </dirStrings>
   </component>
@@ -243,57 +282,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/PracticeFromAnki/MyAnnotation01.java" />
-        <option value="$PROJECT_DIR$/src/PracticeFromAnki/Dog.java" />
-        <option value="$PROJECT_DIR$/src/typeinfo/bean/Employee.java" />
-        <option value="$PROJECT_DIR$/src/typeinfo/Demo02.java" />
-        <option value="$PROJECT_DIR$/src/typeinfo/Demo01.java" />
-        <option value="$PROJECT_DIR$/src/typeinfo/Demo03.java" />
-        <option value="$PROJECT_DIR$/src/typeinfo/testRhino/Demo01.java" />
-        <option value="$PROJECT_DIR$/src/typeinfo/classLoading/Demo01.java" />
-        <option value="$PROJECT_DIR$/src/annotations/pracitice/Employee.java" />
-        <option value="$PROJECT_DIR$/src/TestMaterial.java" />
-        <option value="$PROJECT_DIR$/src/stream/practice/Practice1.java" />
-        <option value="$PROJECT_DIR$/src/material/Transaction.java" />
-        <option value="$PROJECT_DIR$/src/PracticeFromAnki/MyAnnotation02.java" />
-        <option value="$PROJECT_DIR$/src/PracticeFromAnki/Demo12314.java" />
-        <option value="$PROJECT_DIR$/src/typeinfo/Demo04.java" />
-        <option value="$PROJECT_DIR$/src/typeinfo/FileSystemClassLoader.java" />
-        <option value="$PROJECT_DIR$/src/typeinfo/DynamicSupplier.java" />
-        <option value="$PROJECT_DIR$/src/typeinfo/PetCount3.java" />
-        <option value="$PROJECT_DIR$/src/PracticeFromAnki/ForkJoinCaculate3536.java" />
-        <option value="$PROJECT_DIR$/src/PracticeFromAnki/This.java" />
-        <option value="$PROJECT_DIR$/src/file/PathInfo.java" />
-        <option value="$PROJECT_DIR$/src/file/PartsOfPaths.java" />
-        <option value="$PROJECT_DIR$/src/file/PathAnalysis.java" />
-        <option value="$PROJECT_DIR$/src/file/RmDir.java" />
-        <option value="$PROJECT_DIR$/src/standardio/Echo.java" />
-        <option value="$PROJECT_DIR$/src/standardio/Redirecting.java" />
-        <option value="$PROJECT_DIR$/src/newIo/GetChannel2242.java" />
-        <option value="$PROJECT_DIR$/src/newIo/GetChannel.java" />
-        <option value="$PROJECT_DIR$/src/newIo/PlayGround.java" />
-        <option value="$PROJECT_DIR$/src/PracticeFromAnki/MyExtentAnnota.java" />
-        <option value="$PROJECT_DIR$/src/PracticeFromAnki/MyExtentAnnotation.java" />
-        <option value="$PROJECT_DIR$/src/PracticeFromAnki/TestReflectTest.java" />
-        <option value="$PROJECT_DIR$/src/PracticeFromAnki/Fibonacci2345.java" />
-        <option value="$PROJECT_DIR$/src/PracticeFromAnki/PlayGround2.java" />
-        <option value="$PROJECT_DIR$/src/PracticeFromAnki/CalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/PracticeFromAnki/PlayGround3.java" />
-        <option value="$PROJECT_DIR$/src/typeinfo/Shapes.java" />
-        <option value="$PROJECT_DIR$/src/typeinfo/SweetShop.java" />
-        <option value="$PROJECT_DIR$/src/typeinfo/toys/ToyTest.java" />
-        <option value="$PROJECT_DIR$/src/typeinfo/ClassInitialization.java" />
         <option value="$PROJECT_DIR$/src/typeinfo/DynmicSupplier.java" />
         <option value="$PROJECT_DIR$/src/typeinfo/GenericToyTest.java" />
         <option value="$PROJECT_DIR$/src/typeinfo/toys/GenericToyTest.java" />
         <option value="$PROJECT_DIR$/src/typeinfo/ClassCasts.java" />
-        <option value="$PROJECT_DIR$/src/PracticeFromAnki/UnboundMethodReference2314.java" />
-        <option value="$PROJECT_DIR$/Redirecting2.txt" />
         <option value="$PROJECT_DIR$/src/material/Trader.java" />
         <option value="$PROJECT_DIR$/src/file/ByteBufferTest.java" />
         <option value="$PROJECT_DIR$/src/PracticeFromAnki/PlayGround.java" />
-        <option value="$PROJECT_DIR$/Redirecting.txt" />
+        <option value="$PROJECT_DIR$/src/PracticeFromAnki/intCall.java" />
+        <option value="$PROJECT_DIR$/src/io/BufferedInputFile.java" />
+        <option value="$PROJECT_DIR$/src/io/FormattedMemoryInput.java" />
+        <option value="$PROJECT_DIR$/src/io/TestEOF.java" />
+        <option value="$PROJECT_DIR$/src/io/BasicFileOutput.java" />
+        <option value="$PROJECT_DIR$/src/io/FileOutputShortcut.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/ClassInitialization.java" />
+        <option value="$PROJECT_DIR$/src/PracticeFromAnki/UnboundMethodReference2314.java" />
+        <option value="$PROJECT_DIR$/src/newIo/TestBuffer.java" />
+        <option value="$PROJECT_DIR$/src/PracticeFromAnki/TestNonBlockingNIO.java" />
+        <option value="$PROJECT_DIR$/Redirecting2.txt" />
+        <option value="$PROJECT_DIR$/src/file/RmDir.java" />
         <option value="$PROJECT_DIR$/src/PracticeFromAnki/Practice2313.java" />
+        <option value="$PROJECT_DIR$/src/annotations/UseCase.java" />
+        <option value="$PROJECT_DIR$/src/annotations/database/DBTable.java" />
+        <option value="$PROJECT_DIR$/src/annotations/database/Constraints.java" />
+        <option value="$PROJECT_DIR$/src/annotations/database/SQLInteger.java" />
+        <option value="$PROJECT_DIR$/src/annotations/database/SQLString.java" />
+        <option value="$PROJECT_DIR$/src/annotations/database/Member.java" />
+        <option value="$PROJECT_DIR$/src/annotations/database/TableCreator.java" />
+        <option value="$PROJECT_DIR$/src/annotations/database/Simple.java" />
+        <option value="$PROJECT_DIR$/src/annotations/database/SimpleTest.java" />
+        <option value="$PROJECT_DIR$/src/annotations/database/SimpleProcessor.java" />
+        <option value="$PROJECT_DIR$/src/annotations/simplest.java" />
+        <option value="$PROJECT_DIR$/src/annotations/database/simplest/SimpleProcessor.java" />
+        <option value="$PROJECT_DIR$/src/annotations/simplest/SimpleProcessor.java" />
+        <option value="$PROJECT_DIR$/src/annotations/simplest/SimpleTest.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/VehicalInvacationHanndler.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/SelectingMethods.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/SimpleProxyDemo.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/SimpleDynamicProxy.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/VehicalInvacationHandler.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/Person.java" />
+        <option value="$PROJECT_DIR$/src/collectaions/MapOfList.java" />
+        <option value="$PROJECT_DIR$/src/PracticeFromAnki/Dog.java" />
+        <option value="$PROJECT_DIR$/src/annotations/Demo02.java" />
+        <option value="$PROJECT_DIR$/src/functional/exersices/Practice.java" />
+        <option value="$PROJECT_DIR$/copydata.txt" />
+        <option value="$PROJECT_DIR$/data.txt" />
+        <option value="$PROJECT_DIR$/Redirecting.txt" />
+        <option value="$PROJECT_DIR$/src/PracticeFromAnki/Runable.java" />
+        <option value="$PROJECT_DIR$/src/PracticeFromAnki/Practice2223.java" />
+        <option value="$PROJECT_DIR$/src/PracticeFromAnki/Practice2222.java" />
+        <option value="$PROJECT_DIR$/src/PracticeFromAnki/practice2252.java" />
       </list>
     </option>
   </component>
@@ -308,7 +347,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="974" />
+    <option name="width" value="1057" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -335,26 +374,18 @@
               <item name="ThinkofJava_annotation" type="b2602c69:ProjectViewProjectNode" />
               <item name="ThinkofJava_annotation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="J8time" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ThinkofJava_annotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThinkofJava_annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="newIo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ThinkofJava_annotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThinkofJava_annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="PracticeFromAnki" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThinkofJava_annotation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -363,12 +394,13 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="D:/workspace" />
+    <property name="last_opened_file_path" value="D:/commons-io-2.6/commons-io-2.6.jar!/" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -381,23 +413,28 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="PracticeFromAnki" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="PracticeFromAnki" />
       <recent name="functional" />
     </key>
-    <key name="ExtractSuperBase.RECENT_KEYS">
-      <recent name="PracticeFromAnki" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\OneDrive - vlity.ac.id\DEMO\ThinkofJava_annotation\src\annotations\simplest" />
+      <recent name="H:\OneDrive - vlity.ac.id\DEMO\ThinkofJava_annotation\src\annotations\database" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="typeinfo.bean" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="PracticeFromAnki" />
       <recent name="stuff.mall.common" />
     </key>
   </component>
@@ -413,9 +450,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Practice2313.test2345">
-    <configuration name="DynamicSupplier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeFromAnki.DynamicSupplier" />
+  <component name="RunManager" selected="Application.practice2252">
+    <configuration name="Practice2223" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeFromAnki.Practice2223" />
       <module name="OnJava_all" />
       <extension name="coverage">
         <pattern>
@@ -427,7 +464,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice2313" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCharBuffer3242" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeFromAnki.TestCharBuffer3242" />
       <module name="OnJava_all" />
       <extension name="coverage">
         <pattern>
@@ -435,14 +473,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="PracticeFromAnki" />
-      <option name="MAIN_CLASS_NAME" value="PracticeFromAnki.Practice2313" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice2313.test2345" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="clientTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeFromAnki.clientTest" />
       <module name="OnJava_all" />
       <extension name="coverage">
         <pattern>
@@ -450,15 +486,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="PracticeFromAnki" />
-      <option name="MAIN_CLASS_NAME" value="PracticeFromAnki.Practice2313" />
-      <option name="METHOD_NAME" value="test2345" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice2313.test3425" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="practice2252" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeFromAnki.practice2252" />
       <module name="OnJava_all" />
       <extension name="coverage">
         <pattern>
@@ -466,15 +499,11 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="PracticeFromAnki" />
-      <option name="MAIN_CLASS_NAME" value="PracticeFromAnki.Practice2313" />
-      <option name="METHOD_NAME" value="test3425" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice2313.test3435" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Practice2222.server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OnJava_all" />
       <extension name="coverage">
         <pattern>
@@ -483,8 +512,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="PracticeFromAnki" />
-      <option name="MAIN_CLASS_NAME" value="PracticeFromAnki.Practice2313" />
-      <option name="METHOD_NAME" value="test3435" />
+      <option name="MAIN_CLASS_NAME" value="PracticeFromAnki.Practice2222" />
+      <option name="METHOD_NAME" value="server" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -492,11 +521,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Practice2313.test2345" />
-        <item itemvalue="Application.DynamicSupplier" />
-        <item itemvalue="JUnit.Practice2313" />
-        <item itemvalue="JUnit.Practice2313.test3425" />
-        <item itemvalue="JUnit.Practice2313.test3435" />
+        <item itemvalue="Application.practice2252" />
+        <item itemvalue="Application.clientTest" />
+        <item itemvalue="Application.Practice2223" />
+        <item itemvalue="JUnit.Practice2222.server" />
+        <item itemvalue="Application.TestCharBuffer3242" />
       </list>
     </recent_temporary>
   </component>
@@ -519,44 +548,58 @@
       <workItem from="1584719989132" duration="256219000" />
       <workItem from="1585852865863" duration="35259000" />
       <workItem from="1586369251813" duration="1176000" />
-      <workItem from="1586417048709" duration="16160000" />
+      <workItem from="1586417048709" duration="17250000" />
+      <workItem from="1586498541553" duration="76520000" />
+      <workItem from="1586748801687" duration="123301000" />
+      <workItem from="1587195899355" duration="28770000" />
+      <workItem from="1587281035959" duration="25907000" />
+      <workItem from="1587389662593" duration="25446000" />
+      <workItem from="1587492577174" duration="1245000" />
+      <workItem from="1587546623501" duration="26380000" />
+      <workItem from="1587653148838" duration="77000" />
+      <workItem from="1587653766736" duration="49000" />
+      <workItem from="1587654228669" duration="3167000" />
+      <workItem from="1587658855284" duration="3349000" />
+      <workItem from="1587662984909" duration="19632000" />
+      <workItem from="1587725699443" duration="31283000" />
+      <workItem from="1587829695092" duration="24026000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Practice2313_test2345 - 2020.04.10 at 01h 28m 22s.xml">
-      <configuration name="Practice2313.test2345" configurationId="JUnit" />
+    <history-entry file="Practice2222_server - 2020.04.26 at 16h 41m 52s.xml">
+      <configuration name="Practice2222.server" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Practice2313_test2345 - 2020.04.10 at 01h 30m 12s.xml">
-      <configuration name="Practice2313.test2345" configurationId="JUnit" />
+    <history-entry file="Practice2222_server - 2020.04.26 at 16h 42m 09s.xml">
+      <configuration name="Practice2222.server" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Practice2313_test2345 - 2020.04.10 at 01h 30m 28s.xml">
-      <configuration name="Practice2313.test2345" configurationId="JUnit" />
+    <history-entry file="Practice2222_server - 2020.04.26 at 16h 42m 39s.xml">
+      <configuration name="Practice2222.server" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Practice2313_test2345 - 2020.04.10 at 01h 35m 30s.xml">
-      <configuration name="Practice2313.test2345" configurationId="JUnit" />
+    <history-entry file="Practice2222_server - 2020.04.26 at 16h 43m 28s.xml">
+      <configuration name="Practice2222.server" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Practice2313_test2345 - 2020.04.10 at 01h 36m 40s.xml">
-      <configuration name="Practice2313.test2345" configurationId="JUnit" />
+    <history-entry file="Practice2222_server - 2020.04.26 at 16h 44m 40s.xml">
+      <configuration name="Practice2222.server" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Practice2313_test2345 - 2020.04.10 at 01h 37m 18s.xml">
-      <configuration name="Practice2313.test2345" configurationId="JUnit" />
+    <history-entry file="Practice2222_server - 2020.04.26 at 16h 45m 26s.xml">
+      <configuration name="Practice2222.server" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Practice2313_test2345 - 2020.04.10 at 12h 52m 21s.xml">
-      <configuration name="Practice2313.test2345" configurationId="JUnit" />
+    <history-entry file="Practice2222_server - 2020.04.26 at 16h 50m 02s.xml">
+      <configuration name="Practice2222.server" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Practice2313_test2345 - 2020.04.10 at 12h 58m 10s.xml">
-      <configuration name="Practice2313.test2345" configurationId="JUnit" />
+    <history-entry file="Practice2222_server - 2020.04.26 at 16h 52m 05s.xml">
+      <configuration name="Practice2222.server" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Practice2313_test2345 - 2020.04.10 at 12h 58m 18s.xml">
-      <configuration name="Practice2313.test2345" configurationId="JUnit" />
+    <history-entry file="Practice2222_server - 2020.04.26 at 16h 53m 32s.xml">
+      <configuration name="Practice2222.server" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Practice2313_test2345 - 2020.04.10 at 12h 59m 31s.xml">
-      <configuration name="Practice2313.test2345" configurationId="JUnit" />
+    <history-entry file="Practice2222_server - 2020.04.26 at 16h 53m 57s.xml">
+      <configuration name="Practice2222.server" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="654483000" />
+    <option name="totallyTimeSpent" value="1044725000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -568,10 +611,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1057" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="1057" height="1057" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7783094" visible="true" weight="0.18818381" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7783094" visible="true" weight="0.19458374" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -580,15 +622,15 @@
       <window_info id="Favorites" order="6" sideWeight="0.2216906" side_tool="true" weight="0.23546302" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.13636364" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.82196164" visible="true" weight="0.33549783" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39335477" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8203483" weight="0.2857143" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3676313" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49916804" weight="0.3300866" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49916804" visible="true" weight="0.36147186" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.17803837" side_tool="true" weight="0.32583067" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49750414" weight="0.23160173" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.17965169" side_tool="true" weight="0.2792208" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49750414" weight="0.15151516" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32900432" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -603,7 +645,7 @@
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.016025642" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7783094" visible="true" weight="0.19607843" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7783094" visible="true" weight="0.1974359" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -611,16 +653,16 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.2216906" side_tool="true" weight="0.23546302" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.13744588" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.82196164" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.13636364" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8203483" visible="true" weight="0.32467532" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39335477" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49916804" weight="0.3300866" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49916804" weight="0.20562771" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.17803837" side_tool="true" weight="0.32583067" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49750414" weight="0.23376623" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.17965169" side_tool="true" weight="0.2792208" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49750414" weight="0.15367965" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32900432" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -658,6 +700,84 @@
           <line>67</line>
           <properties />
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/Class.java</url>
+          <line>2260</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/String.java</url>
+          <line>1412</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/String.java</url>
+          <line>1433</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/String.java</url>
+          <line>1550</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/String.java</url>
+          <line>1559</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Java/jdk1.8.0_191/src.zip!/java/net/URL.java</url>
+          <line>617</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/String.java</url>
+          <line>2080</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/String.java</url>
+          <line>2072</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/String.java</url>
+          <line>2078</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/net/www/protocol/file/Handler.class</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Java/jdk1.8.0_191/src.zip!/java/net/URLStreamHandler.java</url>
+          <line>136</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/String.java</url>
+          <line>2084</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/String.java</url>
+          <line>2081</line>
+          <properties />
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/functional/Strategize.java</url>
@@ -702,426 +822,452 @@
       </configuration>
     </watches-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ThinkofJava_annotation$GenericsAndUpcasting.ic" NAME="GenericsAndUpcasting Coverage Results" MODIFIED="1583221357633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>collectaions.*</FILTER>
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/typeinfo/ClassInitialization.java">
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/nio/charset/CharsetEncoder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="37" column="53" lean-forward="true" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/typeinfo/DynmicSupplier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="177">
+          <caret line="464" selection-start-line="464" selection-end-line="464" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#16311#16312#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit-4.12.jar!/org/junit/Test.class">
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PracticeFromAnki/UnboundMethodReference2314.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PracticeFromAnki/TestTimeAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PracticeFromAnki/This.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-202">
+        <state relative-caret-position="463">
+          <caret line="434" selection-start-line="434" selection-end-line="434" />
           <folding>
-            <element signature="e#0#714#0" expanded="true" />
+            <element signature="e#10361#10362#0" expanded="true" />
+            <element signature="e#10388#10389#0" expanded="true" />
+            <element signature="e#15586#15587#0" expanded="true" />
+            <element signature="e#15631#15632#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/nio/file/Paths.java">
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/ClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="130" column="28" selection-start-line="130" selection-start-column="28" selection-end-line="130" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/net/URI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9680">
-          <caret line="463" column="19" selection-start-line="463" selection-start-column="19" selection-end-line="463" selection-end-column="19" />
+        <state relative-caret-position="243">
+          <caret line="1095" selection-start-line="1095" selection-end-line="1095" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#44527#44528#0" expanded="true" />
+            <element signature="e#44554#44555#0" expanded="true" />
+            <element signature="e#48747#48748#0" expanded="true" />
+            <element signature="e#48811#48812#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/annotations/pracitice/Employee.java">
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/net/URLClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/nio/file/Path.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="98" column="55" selection-start-line="98" selection-start-column="46" selection-end-line="98" selection-end-column="55" />
+        <state relative-caret-position="177">
+          <caret line="571" selection-start-line="571" selection-end-line="571" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#22057#22058#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/nio/file/attribute/BasicFileAttributes.java">
+    <entry file="jar://D:/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/misc/URLClassPath.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/nio/file/FileVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="152" column="12" selection-start-line="152" selection-start-column="4" selection-end-line="152" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/nio/file/PathMatcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="39" column="34" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/time/temporal/TemporalAdjuster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-595">
-          <caret line="105" column="17" selection-start-line="105" selection-start-column="17" selection-end-line="105" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/time/LocalDateTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="916" column="39" lean-forward="true" selection-start-line="916" selection-start-column="39" selection-end-line="916" selection-end-column="39" />
+        <state relative-caret-position="388">
+          <caret line="803" selection-start-line="803" selection-end-line="803" />
           <folding>
-            <element signature="e#33690#33691#0" expanded="true" />
-            <element signature="e#33733#33734#0" expanded="true" />
-            <element signature="e#34197#34198#0" expanded="true" />
-            <element signature="e#34235#34236#0" expanded="true" />
+            <element signature="e#7021#7022#0" expanded="true" />
+            <element signature="e#7072#7073#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/nio/file/SimpleFileVisitor.java">
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/jar/JarFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="73" column="5" lean-forward="true" selection-start-line="71" selection-start-column="4" selection-end-line="77" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/functional/entity/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/io/InputStreamReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="70" column="11" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/io/BufferedReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="560" column="26" selection-start-line="560" selection-start-column="26" selection-end-line="560" selection-end-column="26" />
+        <state relative-caret-position="177">
+          <caret line="239" selection-start-line="239" selection-end-line="239" />
           <folding>
-            <element signature="e#3011#3012#0" expanded="true" />
-            <element signature="e#3058#3059#0" expanded="true" />
+            <element signature="e#7320#7321#0" expanded="true" />
+            <element signature="e#7367#7368#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/zip/ZipFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/zip/ZipCoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="735" selection-start-line="735" selection-end-line="735" />
+          <folding>
+            <element signature="e#28530#28531#0" expanded="true" />
+            <element signature="e#28748#28749#0" expanded="true" />
+            <element signature="e#28775#28776#0" expanded="true" />
+            <element signature="e#29007#29008#0" expanded="true" />
+            <element signature="e#29038#29039#0" expanded="true" />
+            <element signature="e#29416#29417#0" expanded="true" />
+            <element signature="e#29443#29444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/net/URLStreamHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/net/www/protocol/file/Handler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="1304" column="18" selection-start-line="1304" selection-start-column="18" selection-end-line="1304" selection-end-column="18" />
+        <state relative-caret-position="177">
+          <caret line="2260" selection-start-line="2260" selection-end-line="2260" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/material/Transaction.java">
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/io/File.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="184">
+          <caret line="510" column="18" selection-start-line="510" selection-start-column="18" selection-end-line="510" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#21135#21136#0" expanded="true" />
+            <element signature="e#21162#21163#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/material/Trader.java">
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/nio/charset/Charset.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="177">
+          <caret line="837" column="28" selection-start-line="837" selection-start-column="28" selection-end-line="837" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/nio/CharBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="559" column="25" selection-start-line="559" selection-start-column="25" selection-end-line="559" selection-end-column="25" />
+          <folding>
+            <element signature="e#7280#7281#0" expanded="true" />
+            <element signature="e#7331#7332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/nio/file/Path.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="134" column="9" selection-start-line="134" selection-start-column="9" selection-end-line="134" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/regex/Matcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="300" column="17" lean-forward="true" selection-start-line="298" selection-start-column="2" selection-end-line="310" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/regex/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="1026" column="25" selection-start-line="1026" selection-start-column="18" selection-end-line="1026" selection-end-column="25" />
+          <folding>
+            <element signature="e#48487#48488#0" expanded="true" />
+            <element signature="e#48531#48532#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/function/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="2083" selection-start-line="2083" selection-end-line="2083" />
+          <folding>
+            <element signature="e#22786#22787#0" expanded="true" />
+            <element signature="e#22821#22822#0" expanded="true" />
+            <element signature="e#55800#55801#0" expanded="true" />
+            <element signature="e#55844#55845#0" expanded="true" />
+            <element signature="e#58481#58482#0" expanded="true" />
+            <element signature="e#58518#58519#0" expanded="true" />
+            <element signature="e#62860#62861#0" expanded="true" />
+            <element signature="e#62916#62917#0" expanded="true" />
+            <element signature="e#82616#82617#0" expanded="true" />
+            <element signature="e#82667#82668#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeFromAnki/Runable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/nio/file/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="3150" column="47" selection-start-line="3150" selection-start-column="43" selection-end-line="3150" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/nio/file/SimpleFileVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="109" column="36" selection-start-line="109" selection-start-column="36" selection-end-line="109" selection-end-column="36" />
+          <folding>
+            <element signature="e#11566#11567#0" expanded="true" />
+            <element signature="e#11597#11598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redirecting.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="1005" lean-forward="true" selection-start-line="4" selection-start-column="1005" selection-end-line="4" selection-end-column="1005" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Redirecting2.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/Runtime.java">
+    <entry file="file://$PROJECT_DIR$/Redirecting4.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/Readable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="38" selection-end-column="63" />
+        <state relative-caret-position="220">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/nio/channels/FileChannel.java">
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/nio/channels/ServerSocketChannel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="474" column="25" selection-start-line="474" selection-start-column="25" selection-end-line="474" selection-end-column="25" />
+        <state relative-caret-position="176">
+          <caret line="153" column="55" selection-start-line="153" selection-start-column="42" selection-end-line="153" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/io/DataInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="500" column="23" selection-start-line="500" selection-start-column="17" selection-end-line="500" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/io/DataOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
+          <folding>
+            <element signature="e#1269#1270#0" expanded="true" />
+            <element signature="e#1295#1296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="48" column="36" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/io/PrintStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="962" column="51" selection-start-line="962" selection-start-column="45" selection-end-line="962" selection-end-column="51" />
+        <state relative-caret-position="2024">
+          <caret line="133" column="11" selection-start-line="133" selection-start-column="11" selection-end-line="133" selection-end-column="11" />
           <folding>
             <element signature="e#4246#4247#0" expanded="true" />
             <element signature="e#4278#4279#0" expanded="true" />
-            <element signature="e#29974#29975#0" expanded="true" />
-            <element signature="e#30017#30018#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/nio/ByteBuffer.java">
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/io/PipedInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="261" column="22" selection-start-line="261" selection-start-column="22" selection-end-line="261" selection-end-column="22" />
+        <state relative-caret-position="-503">
+          <caret line="152" column="28" selection-start-line="152" selection-start-column="11" selection-end-line="152" selection-end-column="28" />
           <folding>
-            <element signature="e#12369#12370#0" expanded="true" />
-            <element signature="e#12420#12421#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PracticeFromAnki/PlayGround.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="134" column="35" selection-start-line="134" selection-start-column="35" selection-end-line="134" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#4196#4197#0" expanded="true" />
+            <element signature="e#4239#4240#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/functional/exersices/Practice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="15" selection-end-column="6" />
+        <state relative-caret-position="176">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/file/ByteBufferTest.java">
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="806" column="13" selection-start-line="806" selection-start-column="13" selection-end-line="806" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/nio/channels/spi/AbstractInterruptibleChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="86" column="50" lean-forward="true" selection-start-line="86" selection-start-column="50" selection-end-line="86" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4288#4289#0" expanded="true" />
+            <element signature="e#4315#4316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/nio/channels/spi/AbstractSelectableChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="287" column="20" lean-forward="true" selection-start-line="287" selection-start-column="19" selection-end-line="287" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/nio/channels/ByteChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/nio/channels/ScatteringByteChannel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <caret line="49" column="31" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="1209" column="30" selection-start-line="1209" selection-start-column="30" selection-end-line="1209" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/com/sun/org/apache/xpath/internal/operations/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/nio/channels/DatagramChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="439" column="41" selection-start-line="439" selection-start-column="41" selection-end-line="439" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="1356" column="18" selection-start-line="1356" selection-start-column="18" selection-end-line="1356" selection-end-column="18" />
+          <folding>
+            <element signature="e#21679#21680#0" expanded="true" />
+            <element signature="e#21750#21751#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeFromAnki/Practice2222.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="126" column="77" selection-start-line="126" selection-start-column="77" selection-end-line="126" selection-end-column="77" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/Optional.java">
+    <entry file="file://$PROJECT_DIR$/src/PracticeFromAnki/Practice2223.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="265" column="13" selection-start-line="265" selection-start-column="13" selection-end-line="265" selection-end-column="13" />
+        <state relative-caret-position="950">
+          <caret line="105" column="79" selection-start-line="105" selection-start-column="75" selection-end-line="105" selection-end-column="79" />
           <folding>
-            <element signature="e#9141#9142#0" expanded="true" />
-            <element signature="e#9199#9200#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/io/BufferedInputStream.java">
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/io/ByteArrayInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="179" column="49" selection-start-line="179" selection-start-column="49" selection-end-line="179" selection-end-column="49" />
-          <folding>
-            <element signature="e#5951#5952#0" expanded="true" />
-            <element signature="e#5996#5997#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-803">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/io/File.java">
+    <entry file="file://$PROJECT_DIR$/src/PracticeFromAnki/practice2252.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="965" column="16" selection-start-line="965" selection-start-column="16" selection-end-line="965" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1024">
-          <caret line="351" column="6" lean-forward="true" selection-start-line="351" selection-start-column="6" selection-end-line="352" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/nio/CharBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="724">
-          <caret line="578" column="31" selection-start-line="578" selection-start-column="31" selection-end-line="578" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/io/ByteArrayOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="71" column="11" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/nio/file/Files.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="2576" column="10" selection-start-line="2576" selection-start-column="7" selection-end-line="2576" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Redirecting.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/net/URL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="745" column="18" selection-start-line="745" selection-start-column="18" selection-end-line="745" selection-end-column="18" />
-          <folding>
-            <element signature="e#28748#28749#0" expanded="true" />
-            <element signature="e#28775#28776#0" expanded="true" />
-            <element signature="e#30877#30878#0" expanded="true" />
-            <element signature="e#30904#30905#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="828" column="26" selection-start-line="828" selection-start-column="26" selection-end-line="828" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="621" column="15" selection-start-line="621" selection-start-column="15" selection-end-line="621" selection-end-column="15" />
-          <folding>
-            <element signature="e#22786#22787#0" expanded="true" />
-            <element signature="e#22821#22822#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/function/IntConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="137" column="23" selection-start-line="137" selection-start-column="23" selection-end-line="137" selection-end-column="23" />
-          <folding>
-            <element signature="e#19327#19328#0" expanded="true" />
-            <element signature="e#19410#19411#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/reflect/ParameterizedType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="64" column="11" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="1049" column="31" selection-start-line="1049" selection-start-column="31" selection-end-line="1049" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="452" column="53" selection-start-line="452" selection-start-column="53" selection-end-line="452" selection-end-column="53" />
-          <folding>
-            <element signature="e#15020#15021#0" expanded="true" />
-            <element signature="e#15084#15085#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PracticeFromAnki/Practice2313.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+        <state relative-caret-position="396">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="17" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1184,7 +1330,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

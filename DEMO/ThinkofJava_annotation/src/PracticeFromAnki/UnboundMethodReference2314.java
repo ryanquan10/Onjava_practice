@@ -9,7 +9,7 @@ public class UnboundMethodReference2314 {
 
 }
 class X{
-    String f(){return "X::f";};
+    String f(){return "X::f";}
 }
 
 interface TransformX{

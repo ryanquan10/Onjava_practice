@@ -1,1 +1,7 @@
-hahahah
+andardio;
+
+import java.io.*;
+
+public class Redirecting {
+    public static void main(String[] args) {
+        PrintStr

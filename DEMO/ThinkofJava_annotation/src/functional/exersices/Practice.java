@@ -8,12 +8,17 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class Practice {
-    List<Employee> emps = Arrays.asList(
+   static List<Employee> list = Arrays.asList(
             new Employee(1, "haha", 3, 3.3,"haha", Employee.Status.BUSY),
             new Employee(2, "haha1", 2, 3.3,"haha", Employee.Status.BUSY),
             new Employee(3, "aha", 55, 3.3,"haha", Employee.Status.FREE),
-            new Employee(4, "hahad", 11, 3.3,"haha", Employee.Status.FREE)
+            new Employee(4, "hahad", 11, 3.3,"haha", Employee.Status.FREE),
+           new Employee(4, "hahad", 11, 100,"庶务", Employee.Status.FREE),
+           new Employee(4, "hahad", 11, 100,"庶务", Employee.Status.FREE)
     );
+
+    public static List<Employee> emps;
+    static {emps = new ArrayList<>(list);}
 
     @Test
     public void test9() {
